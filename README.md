@@ -42,3 +42,21 @@ const Youssef = {
   "Concepts": ["Responsive Design", "Authentication", "Authorization", "JWT"],
   "Tools": ["Git", "GitHub", "Postman", "VS Code", "NPM"]
 };
+```
+
+* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   I build **Full-Stack Web Applications**. <br>
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    I enjoy building **responsive web applications**. <br>
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   Ask me about **Angular, JavaScript, Node.js, Express.js, or MongoDB**. <br>
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />   Find me on GitHub: **[Youssef Zakaria](https://github.com/youssefzakaria14)**<br>
+
+<div align="center">
+
+<a href="https://github.com/youssefzakaria14">
+
+<img src="https://github-readme-stats.vercel.app/api?username=youssefzakaria14&show_icons=true&theme=dark&hide_border=true" width="48%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefzakaria14&layout=compact&theme=dark&hide_border=true" width="40%">
+
+</a>
+
+</div>
