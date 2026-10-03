@@ -118,6 +118,23 @@ const TechStack = [
 * 🧩 Work with **CRUD operations and MVC architecture**.
 * 📱 Focus on **responsive design and clean user experiences**.
 * 🛠️ Use **Git and GitHub** for version control and collaboration.
+
+---
+
+## 🧠 Development Skills
+
+```text
+Frontend Development     ███████████████████░░
+Backend Development      █████████████████░░░░
+Database                 ████████████████░░░░░
+API Development          █████████████████░░░░
+Authentication           ███████████████░░░░░░
+Responsive Design        ██████████████████░░░
+Problem Solving          █████████████████░░░░
+```
+
+> I believe that becoming a better developer comes from consistently building, debugging, learning, and improving.
+
 ---
 
 ## 🌱 Currently Learning
@@ -176,27 +193,21 @@ Scalable Full-Stack Applications
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/youssefzakaria14">
 
-<img src="https://github-readme-stats.vercel.app/api?username=youssefzakaria14&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Stats">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssefzakaria14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefzakaria14&layout=compact&theme=dark&hide_border=true" width="40%" alt="Top Languages">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefzakaria14&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 </a>
 
-</div>
+<br><br>
 
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=youssefzakaria14&theme=dark&hide_border=true" width="70%" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=youssefzakaria14&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
