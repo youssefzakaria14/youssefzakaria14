@@ -12,15 +12,18 @@
 
 ## 👨‍💻 About Me
 
+I'm a **Full Stack Web Developer** focused on building modern web applications using the **MEAN Stack**.
+
+I enjoy turning ideas into functional, responsive and user-friendly applications while continuously improving my development skills.
+
 ```javascript
 const Youssef = {
   role: "Full Stack Web Developer",
   stack: "MEAN Stack",
-  focus: "Building modern web applications",
   frontend: "Angular",
   backend: "Node.js & Express.js",
   database: "MongoDB",
-  mindset: "Learn • Build • Improve"
+  goal: "Keep learning and building"
 };
 ```
 
@@ -61,12 +64,12 @@ const TechStack = {
 
 ---
 
-## 🚀 What I Do
+## 💻 What I Do
 
-* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> I build **Full-Stack Web Applications**. <br>
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> I enjoy building **responsive and user-friendly web applications**. <br>
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Ask me about **Angular, JavaScript, Node.js, Express.js, or MongoDB**. <br>
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> Find me on GitHub: **[Youssef Zakaria](https://github.com/youssefzakaria14)** <br>
+* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> Build **Full-Stack Web Applications**. <br>
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> Create **responsive and user-friendly interfaces**. <br>
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Develop **RESTful APIs and backend systems**. <br>
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> Work with **authentication, authorization and databases**. <br>
 
 ---
 
@@ -74,29 +77,10 @@ const TechStack = {
 
 * Advanced Angular
 * Node.js & Express.js
-* REST API Development
-* Authentication & Authorization
-* MongoDB & Mongoose
 * Backend Architecture
-
----
-
-## 🌍 Featured Project
-
-### ✈️ TripMate — Travel Planner
-
-A full-stack travel planning application built with **Angular, Node.js, Express.js and MongoDB**.
-
-**Features:**
-
-* 🔐 Authentication & Authorization
-* 📩 OTP Verification
-* 🌍 Destinations & Trip Planning
-* 🗓️ Trip Booking
-* 💳 Payment Flow
-* ⭐ Reviews
-* 📝 Complaints
-* 👨‍💼 Admin Dashboard
+* REST API Development
+* MongoDB & Mongoose
+* Authentication & Authorization
 
 ---
 
