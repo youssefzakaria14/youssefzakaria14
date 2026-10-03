@@ -1,8 +1,6 @@
 <div align="center" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;MEAN+Stack+Developer;Angular+%7C+Node.js+%7C+Express.js+%7C+MongoDB" alt="Typing SVG" />
-  </a>
 <h1>🚀 Full Stack Web Developer | MEAN Stack Developer</h1>
 
 
