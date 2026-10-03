@@ -106,22 +106,6 @@ const TechStack = [
 
 ---
 
-## 🧠 Development Skills
-
-```text
-Frontend Development     ███████████████████░░
-Backend Development      █████████████████░░░░
-Database                 ████████████████░░░░░
-API Development          █████████████████░░░░
-Authentication           ███████████████░░░░░░
-Responsive Design        ██████████████████░░░
-Problem Solving          █████████████████░░░░
-```
-
-> I believe that becoming a better developer comes from consistently building, debugging, learning, and improving.
-
----
-
 ## 🌱 Currently Learning
 
 * ⚡ Advanced Angular
