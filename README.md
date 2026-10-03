@@ -4,11 +4,7 @@
 
   <h1>🚀 Full Stack Web Developer | MEAN Stack</h1>
 
-  <p>
-    Building modern, responsive and scalable web applications.
-    <br>
-    Turning ideas into clean, functional and user-friendly digital experiences.
-  </p>
+  <p>Building modern, responsive and scalable web applications.</p>
 
 </div>
 
@@ -18,25 +14,16 @@
 
 I'm a **Full Stack Web Developer** focused on building modern web applications using the **MEAN Stack**.
 
-I enjoy developing applications from the frontend to the backend, working with APIs, databases, authentication systems, and responsive user interfaces.
-
-I'm always interested in learning new technologies, improving my coding skills, and understanding how real-world applications are designed and built.
+I enjoy turning ideas into functional, responsive and user-friendly applications while continuously improving my development skills.
 
 ```javascript
 const Youssef = {
   role: "Full Stack Web Developer",
   stack: "MEAN Stack",
-  frontend: ["HTML", "CSS", "JavaScript", "Angular", "TypeScript"],
-  backend: ["Node.js", "Express.js", "REST APIs"],
-  database: ["MongoDB", "Mongoose"],
-  focus: [
-    "Responsive Web Design",
-    "REST API Development",
-    "Authentication",
-    "Authorization",
-    "Backend Architecture"
-  ],
-  mindset: "Keep Learning • Keep Building"
+  frontend: "Angular",
+  backend: "Node.js & Express.js",
+  database: "MongoDB",
+  goal: "Keep learning and building"
 };
 ```
 
@@ -44,32 +31,33 @@ const Youssef = {
 
 ## 🛠️ Tools & Technologies
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-\
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat\&logo=bootstrap\&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat\&logo=angular\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat\&logo=mongoose\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-1572B6?style=flat)
+![Authentication](https://img.shields.io/badge/Authentication-6C63FF?style=flat)
+![Authorization](https://img.shields.io/badge/Authorization-6C63FF?style=flat)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat\&logo=jsonwebtokens\&logoColor=white)
+![API Integration](https://img.shields.io/badge/API%20Integration-02569B?style=flat)
+![CRUD](https://img.shields.io/badge/CRUD-4CAF50?style=flat)
+![MVC](https://img.shields.io/badge/MVC%20Architecture-FF9800?style=flat)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat\&logo=json\&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-005C84?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=flat\&logo=npm\&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat\&logo=nodemon\&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat\&logo=cloudinary\&logoColor=white)
 
 ```javascript
 const TechStack = [
@@ -107,16 +95,14 @@ const TechStack = [
 
 ## 💻 What I Do
 
-* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> Build **Full-Stack Web Applications**.
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> Create **modern, responsive and user-friendly interfaces**.
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Develop **RESTful APIs and backend services**.
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> Build applications using **Angular, Node.js, Express.js and MongoDB**.
-* 🔐 Implement **authentication and authorization systems**.
-* 🗄️ Design and work with **MongoDB databases using Mongoose**.
-* 🔄 Integrate **frontend applications with backend APIs**.
-* 🧩 Work with **CRUD operations and MVC architecture**.
-* 📱 Focus on **responsive design and clean user experiences**.
-* 🛠️ Use **Git and GitHub** for version control and collaboration.
+* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> Build **Full-Stack Web Applications**. <br>
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> Create **responsive and user-friendly interfaces**. <br>
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Develop **RESTful APIs and backend systems**. <br>
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> Work with **authentication, authorization and databases**. <br>
+* 🔄 Integrate **frontend applications with backend APIs**. <br>
+* 🧩 Work with **CRUD operations and MVC architecture**. <br>
+* 📱 Focus on **responsive design and clean user experiences**. <br>
+* 🛠️ Use **Git and GitHub** for version control and collaboration. <br>
 
 ---
 
@@ -138,8 +124,6 @@ Problem Solving          █████████████████░�
 
 ## 🌱 Currently Learning
 
-I'm continuously improving my knowledge in:
-
 * ⚡ Advanced Angular
 * 🟢 Node.js & Express.js
 * 🏗️ Backend Architecture
@@ -157,7 +141,13 @@ I'm continuously improving my knowledge in:
 
 My current focus is becoming a stronger **Full Stack Web Developer** by improving both frontend and backend development skills.
 
-I'm particularly interested in:
+I'm particularly interested in building applications that are:
+
+* ⚡ Fast and responsive
+* 🔐 Secure and reliable
+* 🧩 Well structured
+* 📱 User-friendly
+* 🔄 Scalable and maintainable
 
 ```text
 Angular
