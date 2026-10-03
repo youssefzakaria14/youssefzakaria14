@@ -2,7 +2,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
-<h1>🚀 Full Stack Web Developer | MEAN Stack Developer</h1>
+<h1>🚀 Full Stack Web Developer | MEAN Stack </h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=youssefzakaria14\&style=flat\&color=orange\&label=PROFILE+VIEWS)
 
