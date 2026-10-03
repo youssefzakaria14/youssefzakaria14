@@ -110,13 +110,14 @@ const TechStack = {
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefzakaria14&theme=react-dark&hide_border=true&area=true" width="95%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefzakaria14&theme=react-dark&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph">
 
 </div>
+
 
 ---
 
