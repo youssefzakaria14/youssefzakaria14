@@ -42,9 +42,7 @@ const Youssef = {
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-### 🎨 Frontend
+## 🛠️ Tools & Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
@@ -52,72 +50,58 @@ const Youssef = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat\&logo=bootstrap\&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat\&logo=angular\&logoColor=white)
-
-### ⚙️ Backend
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat)
-
-### 🗄️ Database
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat\&logo=mongoose\&logoColor=white)
-
-### 🔐 Authentication & Security
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat\&logo=jsonwebtokens\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-1572B6?style=flat)
 ![Authentication](https://img.shields.io/badge/Authentication-6C63FF?style=flat)
 ![Authorization](https://img.shields.io/badge/Authorization-6C63FF?style=flat)
-
-### 🔧 Development Tools
-
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat\&logo=jsonwebtokens\&logoColor=white)
+![API Integration](https://img.shields.io/badge/API%20Integration-02569B?style=flat)
+![CRUD](https://img.shields.io/badge/CRUD-4CAF50?style=flat)
+![MVC](https://img.shields.io/badge/MVC%20Architecture-FF9800?style=flat)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat\&logo=json\&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-005C84?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat\&logo=npm\&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat\&logo=nodemon\&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat\&logo=cloudinary\&logoColor=white)
 
 ```javascript
-const TechStack = {
-  Frontend: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "TypeScript",
-    "Bootstrap",
-    "Angular"
-  ],
-
-  Backend: [
-    "Node.js",
-    "Express.js",
-    "REST API"
-  ],
-
-  Database: [
-    "MongoDB",
-    "Mongoose"
-  ],
-
-  Concepts: [
-    "Responsive Design",
-    "Authentication",
-    "Authorization",
-    "JWT",
-    "API Integration",
-    "CRUD Operations",
-    "MVC Architecture"
-  ],
-
-  Tools: [
-    "Git",
-    "GitHub",
-    "Postman",
-    "VS Code",
-    "NPM"
-  ]
-};
+const TechStack = [
+  "HTML",
+  "CSS",
+  "JavaScript",
+  "TypeScript",
+  "Bootstrap",
+  "Angular",
+  "Node.js",
+  "Express.js",
+  "MongoDB",
+  "Mongoose",
+  "REST API",
+  "Responsive Design",
+  "Authentication",
+  "Authorization",
+  "JWT",
+  "API Integration",
+  "CRUD",
+  "MVC Architecture",
+  "JSON",
+  "HTTP",
+  "Git",
+  "GitHub",
+  "Postman",
+  "VS Code",
+  "NPM",
+  "Nodemon",
+  "Cloudinary"
+];
 ```
 
 ---
@@ -146,7 +130,7 @@ Database                 ████████████████░░�
 API Development          █████████████████░░░░
 Authentication           ███████████████░░░░░░
 Responsive Design        ██████████████████░░░
-Problem Solving         █████████████████░░░░
+Problem Solving          █████████████████░░░░
 ```
 
 > I believe that becoming a better developer comes from consistently building, debugging, learning, and improving.
@@ -205,6 +189,7 @@ Scalable Full-Stack Applications
 * Improving responsive UI development
 * Debugging and solving real-world problems
 * Learning better development practices
+* Improving problem-solving skills
 
 ---
 
