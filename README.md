@@ -1,8 +1,8 @@
 <div align="center" width="50">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f508f05-88cd-4b49-97ed-c7841874ccfc" alt="Developer Coding" width="60%"/> <br>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" width="80%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;MEAN+Stack+Developer" alt="Typing SVG"/>
+<h1>🚀 Full Stack Web Developer | MEAN Stack Developer</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=youssefzakaria14\&style=flat\&color=orange\&label=PROFILE+VIEWS)
 
@@ -42,21 +42,3 @@ const Youssef = {
   "Concepts": ["Responsive Design", "Authentication", "Authorization", "JWT"],
   "Tools": ["Git", "GitHub", "Postman", "VS Code", "NPM"]
 };
-```
-
-* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   I build **Full-Stack Web Applications**. <br>
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    I enjoy building **responsive web applications**. <br>
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   Ask me about **Angular, JavaScript, Node.js, Express.js, or MongoDB**. <br>
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />   Find me on GitHub: **[Youssef Zakaria](https://github.com/youssefzakaria14)**<br>
-
-<div align="center">
-
-<a href="https://github.com/youssefzakaria14">
-
-<img src="https://github-readme-stats.vercel.app/api?username=youssefzakaria14&show_icons=true&theme=dark&hide_border=true" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefzakaria14&layout=compact&theme=dark&hide_border=true" width="40%">
-
-</a>
-
-</div>
