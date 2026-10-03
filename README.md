@@ -118,23 +118,6 @@ const TechStack = [
 * 🧩 Work with **CRUD operations and MVC architecture**.
 * 📱 Focus on **responsive design and clean user experiences**.
 * 🛠️ Use **Git and GitHub** for version control and collaboration.
-
----
-
-## 🧠 Development Skills
-
-```text
-Frontend Development     ███████████████████░░
-Backend Development      █████████████████░░░░
-Database                 ████████████████░░░░░
-API Development          █████████████████░░░░
-Authentication           ███████████████░░░░░░
-Responsive Design        ██████████████████░░░
-Problem Solving          █████████████████░░░░
-```
-
-> I believe that becoming a better developer comes from consistently building, debugging, learning, and improving.
-
 ---
 
 ## 🌱 Currently Learning
