@@ -4,13 +4,29 @@
 
 <h1>🚀 Full Stack Web Developer | MEAN Stack Developer</h1>
 
+<p>Building modern, responsive and scalable web applications.</p>
 
 </div>
 
-<hr></hr>
+<hr>
 
-![tools\_I\_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
+## 👨‍💻 About Me
+
+```javascript
+const Youssef = {
+  role: "Full Stack Web Developer",
+  stack: "MEAN Stack",
+  focus: "Building modern web applications",
+  frontend: "Angular",
+  backend: "Node.js & Express.js",
+  database: "MongoDB",
+  mindset: "Learn • Build • Improve"
+};
+```
+
+---
+
+## 🛠️ Tools I Use
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
@@ -34,7 +50,7 @@
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat\&logo=npm\&logoColor=white)
 
 ```javascript
-const Youssef = {
+const TechStack = {
   "Frontend": ["HTML", "CSS", "JavaScript", "Bootstrap", "Angular", "TypeScript"],
   "Backend": ["Node.js", "Express.js", "REST API"],
   "Database": ["MongoDB", "Mongoose"],
@@ -43,10 +59,48 @@ const Youssef = {
 };
 ```
 
-* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   I build **Full-Stack Web Applications**. <br>
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    I enjoy building **responsive web applications**. <br>
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   Ask me about **Angular, JavaScript, Node.js, Express.js, or MongoDB**. <br>
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />   Find me on GitHub: **[Youssef Zakaria](https://github.com/youssefzakaria14)**<br>
+---
+
+## 🚀 What I Do
+
+* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> I build **Full-Stack Web Applications**. <br>
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> I enjoy building **responsive and user-friendly web applications**. <br>
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Ask me about **Angular, JavaScript, Node.js, Express.js, or MongoDB**. <br>
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> Find me on GitHub: **[Youssef Zakaria](https://github.com/youssefzakaria14)** <br>
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Angular
+* Node.js & Express.js
+* REST API Development
+* Authentication & Authorization
+* MongoDB & Mongoose
+* Backend Architecture
+
+---
+
+## 🌍 Featured Project
+
+### ✈️ TripMate — Travel Planner
+
+A full-stack travel planning application built with **Angular, Node.js, Express.js and MongoDB**.
+
+**Features:**
+
+* 🔐 Authentication & Authorization
+* 📩 OTP Verification
+* 🌍 Destinations & Trip Planning
+* 🗓️ Trip Booking
+* 💳 Payment Flow
+* ⭐ Reviews
+* 📝 Complaints
+* 👨‍💼 Admin Dashboard
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -57,5 +111,51 @@ const Youssef = {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefzakaria14&layout=compact&theme=dark&hide_border=true" width="40%">
 
 </a>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=youssefzakaria14&theme=dark&hide_border=true" width="70%">
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefzakaria14&theme=react-dark&hide_border=true&area=true" width="95%">
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/youssefzakaria14">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Code • Build • Learn • Repeat 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
 
 </div>
