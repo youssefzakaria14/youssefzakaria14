@@ -1,10 +1,10 @@
-<div align="center" width="50">
+<div align="center">
 
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" alt="Developer Coding Animation">
 
-<h1>🚀 Full Stack Web Developer | MEAN Stack Developer</h1>
+  <h1>🚀 Full Stack Web Developer | MEAN Stack Developer</h1>
 
-<p>Building modern, responsive and scalable web applications.</p>
+  <p>Building modern, responsive and scalable web applications.</p>
 
 </div>
 
@@ -54,11 +54,11 @@ const Youssef = {
 
 ```javascript
 const TechStack = {
-  "Frontend": ["HTML", "CSS", "JavaScript", "Bootstrap", "Angular", "TypeScript"],
-  "Backend": ["Node.js", "Express.js", "REST API"],
-  "Database": ["MongoDB", "Mongoose"],
-  "Concepts": ["Responsive Design", "Authentication", "Authorization", "JWT"],
-  "Tools": ["Git", "GitHub", "Postman", "VS Code", "NPM"]
+  Frontend: ["HTML", "CSS", "JavaScript", "Bootstrap", "Angular", "TypeScript"],
+  Backend: ["Node.js", "Express.js", "REST API"],
+  Database: ["MongoDB", "Mongoose"],
+  Concepts: ["Responsive Design", "Authentication", "Authorization", "JWT"],
+  Tools: ["Git", "GitHub", "Postman", "VS Code", "NPM"]
 };
 ```
 
@@ -90,9 +90,9 @@ const TechStack = {
 
 <a href="https://github.com/youssefzakaria14">
 
-<img src="https://github-readme-stats.vercel.app/api?username=youssefzakaria14&show_icons=true&theme=dark&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=youssefzakaria14&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefzakaria14&layout=compact&theme=dark&hide_border=true" width="40%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefzakaria14&layout=compact&theme=dark&hide_border=true" width="40%" alt="Top Languages">
 
 </a>
 
@@ -104,7 +104,7 @@ const TechStack = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=youssefzakaria14&theme=dark&hide_border=true" width="70%">
+<img src="https://streak-stats.demolab.com?user=youssefzakaria14&theme=dark&hide_border=true" width="70%" alt="GitHub Streak">
 
 </div>
 
@@ -114,10 +114,9 @@ const TechStack = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefzakaria14&theme=react-dark&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefzakaria14&theme=github&hide_border=true" width="95%" alt="GitHub Activity Graph">
 
 </div>
-
 
 ---
 
@@ -126,11 +125,11 @@ const TechStack = {
 <div align="center">
 
 <a href="https://github.com/youssefzakaria14">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </div>
@@ -141,6 +140,6 @@ const TechStack = {
 
 ### 💻 Code • Build • Learn • Repeat 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer">
 
 </div>
