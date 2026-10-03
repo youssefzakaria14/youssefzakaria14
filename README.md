@@ -1,8 +1,8 @@
 <div align="center" width="50">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif" alt="Developer Coding" width="80%"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f508f05-88cd-4b49-97ed-c7841874ccfc" alt="Developer Coding" width="60%"/> <br>
 
-<h1>🚀 Full Stack Web Developer | MEAN Stack Developer</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;MEAN+Stack+Developer" alt="Typing SVG"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=youssefzakaria14\&style=flat\&color=orange\&label=PROFILE+VIEWS)
 
